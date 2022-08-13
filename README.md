@@ -5,10 +5,7 @@
 ## CRUD based to-do list using Realm local data persistence
 Developed to-do list application using Realm as a Core Data Alternative.
 ## Demo
-![App Screenshot](https://i.postimg.cc/mgGh66ZC/Simulator-Screen-Shot-i-Phone-12-2022-08-13-at-17-12-32.png)
-![Simulator Screen Shot - iPhone 12 - 2022-08-13 at 18 53 33](https://user-images.githubusercontent.com/75177898/184494959-af2fc478-4635-4e97-9d26-307ee20eb5a0.png)
-![Simulator Screen Shot - iPhone 12 - 2022-08-13 at 18 53 13](https://user-images.githubusercontent.com/75177898/184494972-a0c88e82-6439-4b45-b1ec-8b68f0af6d26.png)
-![Simulator Screen Shot - iPhone 12 - 2022-08-13 at 18 53 28](https://user-images.githubusercontent.com/75177898/184494970-fbd59a3a-d9a6-49e8-814b-60c832a8e430.png)
+![Merged_document](https://user-images.githubusercontent.com/75177898/184495185-94088fce-021a-4246-bf1b-5bb87ecc4130.png)
 
 
 ## Deployment
